@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gurukulsikshaniketan/static/css/main.a7ecf394.css",
-    "main.js": "/gurukulsikshaniketan/static/js/main.174f7e96.js",
+    "main.js": "/gurukulsikshaniketan/static/js/main.35f23253.js",
     "static/js/453.ccb2e227.chunk.js": "/gurukulsikshaniketan/static/js/453.ccb2e227.chunk.js",
     "static/media/logo.svg": "/gurukulsikshaniketan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gurukulsikshaniketan/index.html",
     "main.a7ecf394.css.map": "/gurukulsikshaniketan/static/css/main.a7ecf394.css.map",
-    "main.174f7e96.js.map": "/gurukulsikshaniketan/static/js/main.174f7e96.js.map",
+    "main.35f23253.js.map": "/gurukulsikshaniketan/static/js/main.35f23253.js.map",
     "453.ccb2e227.chunk.js.map": "/gurukulsikshaniketan/static/js/453.ccb2e227.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7ecf394.css",
-    "static/js/main.174f7e96.js"
+    "static/js/main.35f23253.js"
   ]
 }
