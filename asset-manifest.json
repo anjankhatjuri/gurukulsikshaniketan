@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/gurukulsikshaniketan/static/css/main.a7ecf394.css",
-    "main.js": "/gurukulsikshaniketan/static/js/main.dffd24ac.js",
+    "main.css": "/gurukulsikshaniketan/static/css/main.db332440.css",
+    "main.js": "/gurukulsikshaniketan/static/js/main.b29f6ebf.js",
     "static/js/453.ccb2e227.chunk.js": "/gurukulsikshaniketan/static/js/453.ccb2e227.chunk.js",
+    "static/media/school.jpeg": "/gurukulsikshaniketan/static/media/school.2151b838452baa60c885.jpeg",
     "index.html": "/gurukulsikshaniketan/index.html",
-    "main.a7ecf394.css.map": "/gurukulsikshaniketan/static/css/main.a7ecf394.css.map",
-    "main.dffd24ac.js.map": "/gurukulsikshaniketan/static/js/main.dffd24ac.js.map",
+    "main.db332440.css.map": "/gurukulsikshaniketan/static/css/main.db332440.css.map",
+    "main.b29f6ebf.js.map": "/gurukulsikshaniketan/static/js/main.b29f6ebf.js.map",
     "453.ccb2e227.chunk.js.map": "/gurukulsikshaniketan/static/js/453.ccb2e227.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7ecf394.css",
-    "static/js/main.dffd24ac.js"
+    "static/css/main.db332440.css",
+    "static/js/main.b29f6ebf.js"
   ]
 }
