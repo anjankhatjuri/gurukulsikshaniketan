@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/gurukulsikshaniketan/static/css/main.db332440.css",
-    "main.js": "/gurukulsikshaniketan/static/js/main.78c5ffb0.js",
+    "main.css": "/gurukulsikshaniketan/static/css/main.17b3134d.css",
+    "main.js": "/gurukulsikshaniketan/static/js/main.1c8a44ee.js",
     "static/js/453.ccb2e227.chunk.js": "/gurukulsikshaniketan/static/js/453.ccb2e227.chunk.js",
+    "static/media/school1.jpeg": "/gurukulsikshaniketan/static/media/school1.2151b838452baa60c885.jpeg",
     "static/media/school.jpeg": "/gurukulsikshaniketan/static/media/school.0fb6a6ced8c994f4a915.jpeg",
+    "static/media/WhatsApp Image 2025-08-22 at 11.58.20 AM.jpeg": "/gurukulsikshaniketan/static/media/WhatsApp Image 2025-08-22 at 11.58.20 AM.b4df11ef6d0648b44483.jpeg",
+    "static/media/WhatsApp Image 2025-08-22 at 11.53.16 AM.jpeg": "/gurukulsikshaniketan/static/media/WhatsApp Image 2025-08-22 at 11.53.16 AM.23ac5d9b474dca25e623.jpeg",
+    "static/media/WhatsApp Image 2025-08-22 at 11.52.19 AM.jpeg": "/gurukulsikshaniketan/static/media/WhatsApp Image 2025-08-22 at 11.52.19 AM.aedb7a690bc48475a3d0.jpeg",
+    "static/media/WhatsApp Image 2025-08-22 at 11.57.31 AM.jpeg": "/gurukulsikshaniketan/static/media/WhatsApp Image 2025-08-22 at 11.57.31 AM.7d701a2d52ab98d0503d.jpeg",
+    "static/media/WhatsApp Image 2025-08-22 at 11.55.52 AM.jpeg": "/gurukulsikshaniketan/static/media/WhatsApp Image 2025-08-22 at 11.55.52 AM.13f385ecd2000f66148a.jpeg",
     "index.html": "/gurukulsikshaniketan/index.html",
-    "main.db332440.css.map": "/gurukulsikshaniketan/static/css/main.db332440.css.map",
-    "main.78c5ffb0.js.map": "/gurukulsikshaniketan/static/js/main.78c5ffb0.js.map",
+    "main.17b3134d.css.map": "/gurukulsikshaniketan/static/css/main.17b3134d.css.map",
+    "main.1c8a44ee.js.map": "/gurukulsikshaniketan/static/js/main.1c8a44ee.js.map",
     "453.ccb2e227.chunk.js.map": "/gurukulsikshaniketan/static/js/453.ccb2e227.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db332440.css",
-    "static/js/main.78c5ffb0.js"
+    "static/css/main.17b3134d.css",
+    "static/js/main.1c8a44ee.js"
   ]
 }
